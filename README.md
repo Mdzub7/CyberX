@@ -2,7 +2,7 @@
 
 A web application that evaluates website trustworthiness by generating a score (0-100) based on various security and credibility parameters. Similar to ScamAdvisor.com, this tool helps users make informed decisions about website reliability.
 
-Project DEMO :
+Project DEMO : https://cyberx-z.netlify.app/
 
 ## Key Features ✨
 - Real-time URL safety checking
