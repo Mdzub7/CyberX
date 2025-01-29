@@ -1,4 +1,4 @@
-CYBER X 🌐🛡️
+## CYBER X 🌐🛡️
 
 A web application that evaluates website trustworthiness by generating a score (0-100) based on various security and credibility parameters. Similar to ScamAdvisor.com, this tool helps users make informed decisions about website reliability.
 
@@ -25,37 +25,14 @@ Project DEMO :
 - **Linting**: ESLint
 - **Bundling**: PostCSS
 
-## File Structure 📁
-bash
-/
-├── src/
-│   ├── components/
-│   │   ├── Footer.tsx
-│   │   ├── Header.tsx
-│   │   └── UrlChecker.tsx
-│   ├── pages/
-│   │   ├── About.tsx
-│   │   ├── Contact.tsx
-│   │   ├── Home.tsx
-│   │   ├── Pricing.tsx
-│   │   └── Services.tsx
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx
-├── public/
-├── .gitignore
-├── package.json
-├── tailwind.config.js
-└── vite.config.ts
-
 
 Installation ⚙️
 
 Clone the repository:
-git clone https://github.com/yourusername/trustscore-evaluator.git
+git clone https://github.com/Mdzub7/CyberX.git
 
 Install dependencies:
-cd trustscore-evaluator && npm install
+cd CyberX && npm install
 
 Start development server:
 npm run dev
@@ -107,7 +84,6 @@ Have questions or suggestions?
 This README includes:
 - Clear project description
 - Technology stack overview
-- File structure explanation
 - Installation/usage instructions
 - Configuration guidelines
 - Contribution workflow
